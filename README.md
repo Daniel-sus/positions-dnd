@@ -1,3 +1,9 @@
+"HOW TO START ?"
+1. Run "npm i" in your terminal to install node_moddules (don't forget to be in the projects directory)
+2. Run "npm run dev" in your terminal to start the project (don't forget to be in the projects directory)
+3. Click the link localhost3000 and you are ready to go
+
+
 Hi, I am Daniel and this is my test task
 
 1. I think, I have done the majority if not all of the requirements for this task (mandatory + additional)
